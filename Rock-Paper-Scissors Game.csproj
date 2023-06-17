@@ -6,6 +6,7 @@
     <RootNamespace>Rock_Paper_Scissors_Game</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <PackageReadmeFile>Readme</PackageReadmeFile>
   </PropertyGroup>
 
 </Project>
